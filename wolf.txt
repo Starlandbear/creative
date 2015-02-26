@@ -1,0 +1,11 @@
+New files... 01
+new files line number 02~ >> wolf.txt
+
+
+exit
+&
+& sl
+& ls
+new 
+
+
